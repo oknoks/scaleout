@@ -2,10 +2,10 @@
 
 ## About Scaleout
 
-General
+General  
 Scaleout offers an innovative federated machine learning framework that enables multiple devices to collaboratively train a model without sharing their data, ensuring privacy. This approach is valuable in scenarios where data access is restricted by legal, practical, or privacy concerns, and it facilitates secure collaboration among diverse stakeholders.
 
-Automotive
+Automotive  
 Scaleout offers a federated machine learning framework, enhancing communication efficiency and data privacy in AI solutions. It enables on-vehicle training of AI models without data sharing, complying with privacy regulations. This approach supports use cases such as autonomous driving, predictive maintenance, and system personalization, optimizing bandwidth and security.
 
 ## Billing
@@ -13,8 +13,8 @@ Scaleout Systems AB
 Kungsgatan 12, 753 32 Uppsala  
 Org Nr: 559095-6438  
 VAT Nr: SE559095643801  
-[billing@scaleoutsystems.com](mailto:billing@scaleoutsystems.com)  
-[https://www.scaleoutsystems.com/](https://www.scaleoutsystems.com/)
+billing@scaleoutsystems.com
+https://www.scaleoutsystems.com
 
 ## Team
 Andreas Hellander  
