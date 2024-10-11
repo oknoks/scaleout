@@ -10,6 +10,7 @@ Scaleout offers a federated machine learning framework, enhancing communication 
 
 ## Billing
 Scaleout Systems AB
+
 Kungsgatan 12, 753 32 Uppsala
 
 Org Nr: 559095-6438
@@ -22,10 +23,8 @@ VAT Nr: SE559095643801
 
 
 ## Team
-Andreas Hellander
-
-CEO & Co-founder / Associate Professor
-
+Andreas Hellander  
+CEO & Co-founder / Associate Professor  
 Andreas holds a Ph.D. in scientific computing and MSc in Biotechnology engineering. He is also Associate Professor at Uppsala University where he leads the Integrative Scalable Computing Laboratory.
 
 Salman Toor
