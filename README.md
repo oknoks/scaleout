@@ -36,7 +36,7 @@ Ebba is an experienced product strategist who specializes in bringing  tech with
 ## Contact
 [https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554](https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554) 
 
-## Billing
+## Company
 Scaleout Systems AB  
 Kungsgatan 12, 753 32 Uppsala  
 Org Nr: 559095-6438  
