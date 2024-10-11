@@ -17,14 +17,6 @@ Scaleout offers an innovative federated machine learning framework that enables 
 Automotive  
 Scaleout offers a federated machine learning framework, enhancing communication efficiency and data privacy in AI solutions. It enables on-vehicle training of AI models without data sharing, complying with privacy regulations. This approach supports use cases such as autonomous driving, predictive maintenance, and system personalization, optimizing bandwidth and security.
 
-## Billing
-Scaleout Systems AB  
-Kungsgatan 12, 753 32 Uppsala  
-Org Nr: 559095-6438  
-VAT Nr: SE559095643801  
-billing@scaleoutsystems.com  
-https://www.scaleoutsystems.com
-
 ## Team
 Andreas Hellander  
 CEO & Co-founder / Associate Professor  
@@ -37,3 +29,18 @@ Salman Toor holds a Ph.D. in scientific computing and is an expert in scientific
 Ebba Kraemer  
 Chief Commercial Officer & Co-founder  
 Ebba is an experienced product strategist who specializes in bringing  tech with high degrees of innovation/novelty to market. She has previously authored  product strategy for global, multi billion $ product/services for Google. Background in Strategy Consulting (BCG), Software development (Product owner) and Enterprise Sales (cloud services and infrastructure)
+
+## Photos
+[https://github.com/oknoks/scaleout/tree/main/photos](https://github.com/oknoks/scaleout/tree/main/photos)
+
+## Contact
+[https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554](https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554) 
+
+## Billing
+Scaleout Systems AB  
+Kungsgatan 12, 753 32 Uppsala  
+Org Nr: 559095-6438  
+VAT Nr: SE559095643801  
+billing@scaleoutsystems.com  
+https://www.scaleoutsystems.com
+
