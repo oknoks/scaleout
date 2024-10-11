@@ -1,5 +1,8 @@
 # Scaleout information
 
+## Logos
+[https://github.com/oknoks/scaleout/tree/main/Scaleout_Logos](https://github.com/oknoks/scaleout/tree/main/Scaleout_Logos)
+
 ## About Scaleout
 
 General  
