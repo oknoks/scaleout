@@ -10,7 +10,6 @@ Scaleout offers a federated machine learning framework, enhancing communication 
 
 ## Billing
 Scaleout Systems AB
-
 Kungsgatan 12, 753 32 Uppsala
 
 Org Nr: 559095-6438
