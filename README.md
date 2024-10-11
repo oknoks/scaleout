@@ -5,6 +5,12 @@
 
 ## About Scaleout
 
+Focus  
+Scaleout specializes in providing a software framework that enhances applications and platforms with federated machine learning capabilities. This is delivered through two key products: FEDn SDK, an open-source tool allowing for extensive customization and integration, and FEDn Studio, which adds advanced user interface, tooling, security, and integrations for federated learning in production environments, suitable for both on-premise and virtual private cloud deployments.
+
+About  
+Scaleout is a team of data scientists, machine learning engineers, software engineers, and entrepreneurs. Experienced from both academic research and industry with backgrounds from Google, SAAB, BCG, Autodesk, Viacom and more.
+
 General  
 Scaleout offers an innovative federated machine learning framework that enables multiple devices to collaboratively train a model without sharing their data, ensuring privacy. This approach is valuable in scenarios where data access is restricted by legal, practical, or privacy concerns, and it facilitates secure collaboration among diverse stakeholders.
 
