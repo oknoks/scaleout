@@ -37,10 +37,5 @@ Ebba is an experienced product strategist who specializes in bringing  tech with
 [https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554](https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=829088554#gid=829088554) 
 
 ## Billing
-Scaleout Systems AB  
-Kungsgatan 12, 753 32 Uppsala  
-Org Nr: 559095-6438  
-VAT Nr: SE559095643801  
-billing@scaleoutsystems.com  
-https://www.scaleoutsystems.com
+[https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=169524366#gid=169524366](https://docs.google.com/spreadsheets/d/1xWTYa1EqzoO5aqf_pIjT_hWNjzNdQdr3t6pTzG5iCUE/edit?gid=169524366#gid=169524366)
 
