@@ -20,8 +20,8 @@ Traditional centralized AI development requires organizations to gather sensitiv
 One sentence:  
 Scaleout Systems delivers federated learning solutions, enabling organizations across industries to develop and deploy collaborative AI models that bring intelligence to every device, from cloud to edge, while keeping sensitive data secure and local.
 
-## Market overview
-Edge AI is an emerging field that combines artificial intelligence with edge computing, enabling AI processing directly on local edge devices. 
+## Market overview 
+Federated learning is considered to be a cornerstone technology in Edge AI, a rapidly growing field that combines artificial intelligence with edge computing.
 
 Three sectors stand out and represents a significant and rapidly growing opportunity:
 
