@@ -9,10 +9,10 @@ Company Overview:
 Scaleout is a deep tech company originating from Uppsala University. We specialize in federated machine learning solutions that help organizations create powerful AI models while ensuring data privacy and security.
 
 What Your Company Does:  
-We offer FEDn, a complete federated machine learning framework that allows for easy development and deployment of collaborative AI applications. Our platform supports the entire innovation process, from local proof-of-concept to large-scale distributed implementations, enabling organizations to develop and deploy AI models without risking data security.
+Scaleout offer FEDn, a complete federated machine learning framework that allows for easy development and deployment of collaborative AI applications. Our platform supports the entire innovation process, from local proof-of-concept to large-scale distributed implementations, enabling organizations to develop and deploy AI models without risking data security.
 
 Mission Statement:  
-Our goal is to make AI accessible and secure for organizations of all sizes, bringing intelligence to every device and enabling secure, scalable AI from the cloud to the edge, while keeping your data safe.
+Scaleout's goal is to make AI accessible and secure for organizations of all sizes, bringing intelligence to every device and enabling secure, scalable AI from the cloud to the edge, while keeping your data safe.
 
 Problem Statement:  
 Traditional centralized AI development requires organizations to gather sensitive data in one place, leading to privacy, security, and regulatory issues. We solve this with federated machine learning, which allows AI training on distributed data without moving it.
