@@ -5,29 +5,31 @@
 
 ## About Scaleout
 
-Company Overview:
+Company Overview:  
 Scaleout is a deep tech company originating from Uppsala University. We specialize in federated machine learning solutions that help organizations create powerful AI models while ensuring data privacy and security.
 
-What Your Company Does:
+What Your Company Does:  
 We offer FEDn, a complete federated machine learning framework that allows for easy development and deployment of collaborative AI applications. Our platform supports the entire innovation process, from local proof-of-concept to large-scale distributed implementations, enabling organizations to develop and deploy AI models without risking data security.
 
-Mission Statement:
+Mission Statement:  
 Our goal is to make AI accessible and secure for organizations of all sizes, bringing intelligence to every device and enabling secure, scalable AI from the cloud to the edge, while keeping your data safe.
 
-Problem Statement:
+Problem Statement:  
 Traditional centralized AI development requires organizations to gather sensitive data in one place, leading to privacy, security, and regulatory issues. We solve this with federated machine learning, which allows AI training on distributed data without moving it.
 
-One sentence:
+One sentence:  
 Scaleout Systems delivers federated learning solutions, enabling organizations across industries to develop and deploy collaborative AI models that bring intelligence to every device, from cloud to edge, while keeping sensitive data secure and local.
 
 ## Market overview
-Edge AI is an emerging field that combines artificial intelligence with edge computing, enabling AI processing directly on local edge devices. Three sectors stand out and represents a significant and rapidly growing opportunity:
+Edge AI is an emerging field that combines artificial intelligence with edge computing, enabling AI processing directly on local edge devices. 
 
-The Industrial Internet of Things (IIoT) market is experiencing robust growth as manufacturers and industrial companies embrace digital transformation. Expected to reach $1.1 trillion (CAGR 22.8%) by 2028, with a significant amount requiring secure, distributed AI solutions. Key drivers include increasing adoption of cloud computing platforms, growing need for predictive maintenance, rising demand for process automation and efficiency, integration of artificial intelligence and machine learning.
+Three sectors stand out and represents a significant and rapidly growing opportunity:
 
-Artificial intelligence is a foundation for the next-generation transport in the automotive industry, enabling advancements in autonomous vehicles, driver assistance systems, and connected car technologies. Projected to grow to $7 billion by 2027 (CAGR of 20.4%). Key Applications are advanced driver assistance systems (ADAS), autonomous vehicles, predictive maintenance, in-car virtual assistants, manufacturing and supply chain optimisation.
+- The Industrial Internet of Things (IIoT) market is experiencing robust growth as manufacturers and industrial companies embrace digital transformation. Expected to reach $1.1 trillion (CAGR 22.8%) by 2028, with a significant amount requiring secure, distributed AI solutions. Key drivers include increasing adoption of cloud computing platforms, growing need for predictive maintenance, rising demand for process automation and efficiency, integration of artificial intelligence and machine learning.
 
-The defence and security sector is increasingly relying on advanced technologies to address evolving threats and enhance operational capabilities. The dual-use AI market in defence is estimated to reach $43.4 billion by 2031, with strong growth expected in secure AI applications. Key Areas are cybersecurity solutions, AI-powered threat intelligence, autonomous systems and robotics, command, control, communications, computers, intelligence, surveillance and reconnaissance systems.
+- Artificial intelligence is a foundation for the next-generation transport in the automotive industry, enabling advancements in autonomous vehicles, driver assistance systems, and connected car technologies. Projected to grow to $7 billion by 2027 (CAGR of 20.4%). Key Applications are advanced driver assistance systems (ADAS), autonomous vehicles, predictive maintenance, in-car virtual assistants, manufacturing and supply chain optimisation.
+
+- The defence and security sector is increasingly relying on advanced technologies to address evolving threats and enhance operational capabilities. The dual-use AI market in defence is estimated to reach $43.4 billion by 2031, with strong growth expected in secure AI applications. Key Areas are cybersecurity solutions, AI-powered threat intelligence, autonomous systems and robotics, command, control, communications, computers, intelligence, surveillance and reconnaissance systems.
 
 **Market Drivers**  
 - Increasing demand for real-time processing and lower latency in edge computing.  
@@ -37,7 +39,6 @@ The defence and security sector is increasingly relying on advanced technologies
 - Stricter data privacy regulations and security needs.
 - Integration of ML for improved decision-making and automation.
 - Growing demand for collaborative AI development across organizational boundaries.
-
 
 
 ## Team
