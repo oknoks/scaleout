@@ -18,7 +18,7 @@ Problem Statement:
 Traditional centralized AI development requires organizations to gather sensitive data in one place, leading to privacy, security, and regulatory issues. We solve this with federated machine learning, which allows AI training on distributed data without moving it.
 
 One sentence:  
-Scaleout Systems delivers federated learning solutions, enabling organizations across industries to develop and deploy collaborative AI models that bring intelligence to every device, from cloud to edge, while keeping sensitive data secure and local.
+Scaleout delivers federated learning solutions, enabling organizations across industries to develop and deploy collaborative AI models that bring intelligence to every device, from cloud to edge, while keeping sensitive data secure and local.
 
 ## Market overview 
 Federated learning is considered to be a cornerstone technology in Edge AI, a rapidly growing field that combines artificial intelligence with edge computing.
@@ -39,6 +39,24 @@ Three sectors stand out and represents a significant and rapidly growing opportu
 - Stricter data privacy regulations and security needs.
 - Integration of ML for improved decision-making and automation.
 - Growing demand for collaborative AI development across organizational boundaries.
+
+
+## Unique value proposition
+Our unique strength lies in FEDn's seamless development-to-deployment capability, allowing organizations to develop federated learning applications locally and deploy them at scale without code modifications. This significantly reduces the complexity and risk typically associated with federated learning implementations.
+
+Our competitive advantages stem from three key factors:
+
+- Technical Innovation: Our framework uniquely combines open-source flexibility with enterprise-grade features, supported by deep research collaboration with Uppsala University.
+- Cross-Industry Expertise: Our team brings both academic excellence and industry experience from leading tech companies, enabling us to bridge the gap between theoretical federated learning and practical implementation challenges.
+- Full-Stack Solution: Unlike competitors who focus on either open-source tools or enterprise platforms, we provide a complete ecosystem from development SDK to production-ready enterprise solution, enabling a smooth transition from proof-of-concept to full-scale deployment.
+
+## Other
+
+Scaleout is at the forefront of two major trends: the demand for privacy-focused AI and the move towards edge computing. Our federated learning solution meets a vital market need in billion-dollar industries like IIoT, Automotive, and Defense due to strict data regulations and privacy concerns.
+
+Our full-stack solution merges open-source flexibility with enterprise strength, supported by collaboration with Uppsala University. Unlike competitors with limited offerings, FEDn delivers a complete development-to-deployment process proven in real-world scenarios.
+
+Our team blends top technical talent from major companies (Google, SAAB, BCG) with extensive academic expertise in machine learning. We have a strong track record of successfully developing and deploying our technology across various sectors while forming solid industry partnerships.
 
 
 ## Team
